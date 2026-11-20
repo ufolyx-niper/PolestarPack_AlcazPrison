@@ -1,6 +1,8 @@
 # 奥卡兹监狱 · 部落进本前接任务
 
-适用于 WoW Forever，角色 48 级可接。需要 Polestar 0.3.7.2 或更新版本。
+适用于 WoW Forever，角色 48 级可接。需要 Polestar 0.4.1 或更新版本。
+
+从 0.1.0 升级时，Polestar 0.4.1 起能保留进行到 Ulka 对话的旧进度。
 
 ## 安装
 
@@ -12,11 +14,12 @@
 | --- | --- | --- |
 | 1 | 奥格瑞玛智慧谷，约 34.6, 38.6，伊崔格 | 接 The Missing Kor'kron（95283） |
 | 2 | 尘泥沼泽蕨墙村，约 35.3, 30.7，纳泽尔·血矛 | 交 95283，接 The Elite of the Elite（95284） |
-| 3 | 尘泥沼泽奥卡兹岛，约 70.3, 19.0，Sergeant Ulka | 交 95284，接 Right Place, Wrong Time（95285），继续对话后原地交 |
-| 4 | 同一位 Sergeant Ulka | 接 No Orc Left Behind（95309）、A Little Payback（96332）、Blood Red Bandanas（96334） |
-| 5 | 奥卡兹岛北侧塔楼，尘泥沼泽 75.3, 14.1 | 进塔下到地下室找传送门 |
+| 3 | 尘泥沼泽奥卡兹岛，约 70.3, 19.0，Sergeant Ulka | 交 95284，接 Right Place, Wrong Time（95285），继续和 Ulka 对话 |
+| 4 | 同一位 Sergeant Ulka | 任务显示可交付后，原地交 95285 |
+| 5 | 同一位 Sergeant Ulka | 接 No Orc Left Behind（95309）、A Little Payback（96332）、Blood Red Bandanas（96334） |
+| 6 | 奥卡兹岛北侧塔楼，尘泥沼泽 75.3, 14.1 | 进塔下到地下室找传送门 |
 
-地图上的「0/8」统计已完成的任务。进本前要带进日志的是步骤 4 的三项。其余五项包括从 Folkar 推进的 95454、96369、95483，以及 Mason Connery 的可选支线 96335、96337。96332 出本交给 Ulka，96334 回奥格瑞玛交给伊崔格，95483 交给萨尔。
+地图上的「0/8」统计已完成的任务。进本前要带进日志的是步骤 5 的三项。其余五项包括从 Folkar 推进的 95454、96369、95483，以及 Mason Connery 的可选支线 96335、96337。96332 出本交给 Ulka，96334 回奥格瑞玛交给伊崔格，95483 交给萨尔。
 
 要做囚犯支线，进门前告诉队友留着 The Questioner。到尾王附近先接 Mason 的任务，再回头杀 The Questioner 拿钥匙。后续线索指向西部荒野月溪镇。若打早了又拿不到钥匙，可以留到下个副本进度。
 

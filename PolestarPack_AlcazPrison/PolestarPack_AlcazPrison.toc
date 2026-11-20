@@ -3,11 +3,11 @@
 ## Title-zhCN: Polestar 社区指南：奥卡兹监狱
 ## Notes-zhCN: Forever 部落进本前任务接取路线
 ## Author: Codex
-## Version: 0.1.0
+## Version: 0.1.1
 ## Dependencies: Polestar
 ## X-Polestar-Pack: alcaz-prison
-## X-Polestar-Format: 5
-## X-Polestar-Needs: 0.3.7.2
+## X-Polestar-Format: 11
+## X-Polestar-Needs: 0.4.1
 ## X-License: MIT
 
 Guides.lua

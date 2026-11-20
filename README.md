@@ -1,6 +1,6 @@
 # Polestar 奥卡兹监狱（部落）
 
-《魔兽世界》Forever 的奥卡兹监狱进本前任务接取路线，部落角色 48 级可接。需要先安装 [Polestar Guides 0.3.7.2 或更新版本](https://www.curseforge.com/wow/addons/polestar)。
+《魔兽世界》Forever 的奥卡兹监狱进本前任务接取路线，部落角色 48 级可接。需要先安装 [Polestar Guides 0.4.1 或更新版本](https://www.curseforge.com/wow/addons/polestar)。
 
 ## 用 WowUp 安装
 
